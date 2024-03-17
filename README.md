@@ -41,13 +41,7 @@
   <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/android.svg" height="30">
   <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/ios.svg" height="30">
   <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/macos.svg" height="30">
-  <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/powershell.svg" height="30">
-  <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/pycharm.svg" height="30">
   <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/shell.svg" height="30">
-  <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/terminal.svg" height="30">
-  <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/ubuntu.svg" height="30">
-  <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/vscode.svg" height="30">
-  <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/windows.svg" height="30">
   <br>
 
 </h3>
