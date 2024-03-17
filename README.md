@@ -5,9 +5,6 @@
 - 💬 Ask me about well, anything ... 
 - 📫 How to reach me: LinkedIN reference in Profile
 
-# :iphone: Contacts
-:person_in_tuxedo: Feel free to reach me on [Telegram](https://t.me/boramorka). 
-
 <h3 align="center">
   Tech stack
   <br>
