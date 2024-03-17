@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on **mobile platforms** security research
 - 🌱 I’m currently learning **Verilog/VHDL** for hardware development
 - 💬 Ask me about well, anything ... 
-- 📫 How to reach me: LinkedIN reference in Profile
+- 📫 Check profile links for contact information
 
 <h3 align="center">
   Tech stack
