@@ -1,27 +1,34 @@
 - :desktop_computer: In Computer Science since 2012
 
-- 🔭 I’m currently working on **mobile platforms** security research
-- 🌱 I’m currently learning **Verilog/VHDL** for hardware development
-- 💬 Ask me about well, anything ... 
-- 📫 Check profile links for contact information
+- 🔭 Working on **mobile platforms** security research
+- 🌱 Learning **Verilog/VHDL** for hardware development
+- 📫 Check profile for contact information
+
+<h3 align="center">
+  <img src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" height="30">
+  <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/android.svg" height="30">
+  <br/><br/>
+</h3>
 
 <h3 align="center">
   Tech stack
   <br/><br/>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30">
-    <img src="https://raw.githubusercontent.com/boramorka/usercontent/4747733b63d843a80f861cc51bf58fcf8586dd82/shields.io/docker.svg" height="30">
-    <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/aws.svg" height="30">
-    <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/digitalocean.svg" height="30">
-    <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/flask.svg" height="30">
-    <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/html.svg" height="30">
-    <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/latex.svg" height="30">
-    <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/linode.svg" height="30">
-    <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/markdown.svg" height="30">
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30">
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="30">
+    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" height="30">
+    <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" height="30">
+    <img src="" height="30">
+    <img src="" height="30">
+    <img src="" height="30">
 </h3>
 
 <h3 align="center">
-  ML Tech Stack
+  Tech Stack
   <br/><br/>
+  <img src="https://raw.githubusercontent.com/boramorka/usercontent/4747733b63d843a80f861cc51bf58fcf8586dd82/shields.io/docker.svg" height="30">
+  <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/html.svg" height="30">
+  <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/latex.svg" height="30">
   <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/jupyter.svg" height="30">
   <img src="https://raw.githubusercontent.com/boramorka/usercontent/aad4d15178483720bcc0562617c86a7c84a7d257/shields.io/numpy.svg" height="30">
   <img src="https://raw.githubusercontent.com/boramorka/usercontent/aad4d15178483720bcc0562617c86a7c84a7d257/shields.io/pandas.svg" height="30">
@@ -30,17 +37,6 @@
   <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/plotly.svg" height="30">
   <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/scipy.svg" height="30">
   <br>
-</h3>
-
-<h3 align="center">
-  Environment
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/android.svg" height="30">
-  <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/ios.svg" height="30">
-  <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/macos.svg" height="30">
-  <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/shell.svg" height="30">
-  <br>
-
 </h3>
 
 <br>
