@@ -11,7 +11,6 @@
 </h2>
 
 <h2 align="center">
-  Tech stack
   <br/>
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="30">
@@ -21,8 +20,7 @@
 </h2>
 
 <h2 align="center">
-  Third-party
-  <br/><br/>
+  <br/>
   <img src="https://raw.githubusercontent.com/boramorka/usercontent/4747733b63d843a80f861cc51bf58fcf8586dd82/shields.io/docker.svg" height="30">
   <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/html.svg" height="30">
   <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/latex.svg" height="30">
